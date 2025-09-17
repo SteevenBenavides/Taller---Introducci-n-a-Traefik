@@ -4,6 +4,7 @@ Pantallazos Solicitados:
 
 Paso 1. Verificar requisitos: Ejecutar en la terminal docker --version y docker compose version. 
 Pantallazo: salida de la terminal con las versiones de Docker y Docker Compose.
+
 <img width="398" height="111" alt="Pantallazo1" src="https://github.com/user-attachments/assets/6b728806-34df-4244-a88a-0a54afec6219" />
 
 Paso 2. Levantar Traefik: Crear la configuración mínima y ejecutar docker compose up -d para iniciar Traefik.
